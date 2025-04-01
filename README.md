@@ -7,7 +7,7 @@ Ce projet a pour objectif de collecter, nettoyer et enrichir des données d'anno
 - **Scraping (`projet.py`)** : extraction des données depuis le site immo-entre-particuliers.com (ville, type, surface, pièces, DPE, prix...).
 - **Nettoyage** : traitement des valeurs manquantes, conversion des types, encodage des variables catégorielles.
 - **Fusion géographique** : ajout de la latitude et longitude via un fichier `cities.csv` de référence.
-- **Résultat final** : un fichier `annonces_ile_de_france_final.csv` propre et exploitable.
+- **Résultat final** : un fichier `annonces_ile_de_france_final.csv` propre et aussi exploitable.
 
 ## Fichiers
 
